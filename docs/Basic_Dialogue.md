@@ -145,7 +145,7 @@ _NOTE: In an effort to keeps things simple, the built-in example balloon does no
 
 Cues are markers within your dialogue that you can start from and jump to. Usually, in your game you would start some dialogue by providing a cue (the default cue is `start` but it could be whatever you've written in your dialogue).
 
-Cues start with a `~ ` and are named (without any spaces):
+Cues start with a `~ ` and are named (without capitals and without any spaces):
 
 ```
 ~ this_is_a_cue
